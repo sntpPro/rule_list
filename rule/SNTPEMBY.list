@@ -1,5 +1,6 @@
 # NAME: 守候EMBY规则
 # AUTHOR: 守候网络
 # UPDATED: 2023-12-02 15:46:35
-# TOTAL: 1
+# TOTAL: 2
 DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,shvip.uk
